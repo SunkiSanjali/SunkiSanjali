@@ -12,7 +12,7 @@ I believe in consistent improvement, clean code, and learning by building.
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjali-reddy-79b53b326?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunkisanjalireddy06@gmail.com)
 
 ---
